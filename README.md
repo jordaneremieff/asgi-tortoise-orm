@@ -1,6 +1,6 @@
 # asgi-tortoise-orm
 
-ASGI middleware that implements Tortoise ORM support. WIP.
+ASGI middleware that implements [Tortoise ORM](https://github.com/tortoise/tortoise-orm) support. WIP.
 
 ## Running the example
 
