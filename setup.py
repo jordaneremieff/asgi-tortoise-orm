@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-from fikki.__version__ import __version__
+from asgi_tortoise_orm.__version__ import __version__
 
 setup(
     name="asgi-tortoise-orm",
